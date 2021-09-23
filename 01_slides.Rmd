@@ -124,7 +124,7 @@ We are part of the Center for Effective Global Action ([CEGA](https://cega.berke
 
 
 
-.font130[**Many Others**]
+.font130[[**Many Others**](https://bitss.github.io/ACRE/contributions.html#list-of-contributors-guidelines-content-and-source-code)]
 
 CEGA staff
 
@@ -618,7 +618,7 @@ background-size: contain
 
 .font130[
 1. Increase the number of robustness checks
-2. Justify the appropriateness of a specific test
+2. Justify the reasonableness of a specific test
  ]
 
 ---
@@ -666,7 +666,7 @@ background-image:  url(Images/completed_repro1.png)
 background-size:   450px
 background-position:  0% 0%   
 count:false
-# Completed Reproduction
+# Completed Reproduction: [Example](https://www.socialsciencereproduction.org/reproductions/40/published/index)
 
 
 ---
@@ -688,7 +688,7 @@ count:true
 .font130[
  <br><br><br><br><br><br><br>
  
- - **Share it:** Original authors, other researchers, add it to your CV
+ - **Share it:** Original authors, instructors, other researchers, add it to your CV
  - **Discuss it:** Discourse forum for reproductions
  - **Cite it:**    Reproduction DOI coming soon
  ]
@@ -726,7 +726,7 @@ count:false
 <br><br><br><br><br><br><br><br>
 .font120[
 Consult the <br> supporting <br>
-[**guides**](https://bitss.github.io/ACRE/)
+[**guide**](https://bitss.github.io/ACRE/)
 ]
 
 ---
@@ -746,7 +746,7 @@ count:true
 <br><br><br><br><br><br><br><br>
 .font120[
 Consult the <br> supporting <br>
-[**guides**](https://bitss.github.io/ACRE/)
+[**guide**](https://bitss.github.io/ACRE/)
 ]
 .right[
 .font120[
