@@ -2,10 +2,10 @@
 title: "Accelerating Computational Reproducibility with the Social Science Reproduction Platform"
 author: "Fernando Hoces de la Guardia, BITSS"
 subtitle: "Metascience Conference"
-date:  "September 2021 | [slides](https://bitss.github.io/CTREE_slides/)"
+date:  "September 2021 | [slides](https://bitss.github.io/acre-slides-metascience2021/)"
 output: 
   xaringan::moon_reader:
-    footer: "These slides available at https://bitss.github.io/CTREE_slides/"
+    footer: "These slides available at https://bitss.github.io/acre-slides-metascience2021/"
     css: [default, metropolis, metropolis-fonts] 
     lib_dir: libs
     nature:
