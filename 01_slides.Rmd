@@ -763,7 +763,7 @@ class: inverse, center, middle
 <html><div style='float:left'></div><hr color='#EB811B' size=1px width=100%></html>
 
 .font190[
-<acre@berkley.edu>
+<acre@berkeley.edu>
 ]
 ```{r gen_pdf, include = FALSE, cache = FALSE, eval = FALSE}
 pagedown::chrome_print("01_slides.html", output = "01_slides.pdf")
